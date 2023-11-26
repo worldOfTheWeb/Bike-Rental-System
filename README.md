@@ -9,16 +9,18 @@ Customer can request only one type of rental i.e hourly, daily or weekly. They a
 ## Project Goals
 
 #### Customers:
- --> See currently available bikes in the rental system
- --> Rent bikes on hourly basis and it costs $5 per hour.
- --> Rent bikes on daily basis and it costs $20 per day.
- --> Rent bikes on weekly basis and it costs $60 per week.
- --> Family Rental, a promotion that can include from 3 to 6 bikes (of any type) with a discount of 30% of the total price
+
+    --> See currently available bikes in the rental system
+    --> Rent bikes on hourly basis and it costs $5 per hour.
+    --> Rent bikes on daily basis and it costs $20 per day.
+    --> Rent bikes on weekly basis and it costs $60 per week.
+    --> Family Rental, a promotion that can include from 3 to 6 bikes (of any type) with a discount of 30% of the total price
 
 #### Bike rental system:
- --> Issue a bill when customer decides to return the bike.
- --> Display available bikes in the system
- --> Take requests on hourly, daily and weekly basis by verifying available bikes
+
+    --> Issue a bill when customer decides to return the bike.
+    --> Display available bikes in the system
+    --> Take requests on hourly, daily and weekly basis by verifying available bikes
 
 
 ## Tech Stack
